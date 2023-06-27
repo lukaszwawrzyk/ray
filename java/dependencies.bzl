@@ -12,7 +12,7 @@ def gen_java_deps():
             "com.google.protobuf:protobuf-java-util:3.19.4",
             "com.puppycrawl.tools:checkstyle:8.15",
             "com.sun.xml.bind:jaxb-core:2.3.0",
-            "com.sun.xml.bind:jaxb-impl:2.3.0",
+            "com.sun.xml.bind:jaxb-impl:2.3.8",
             "com.typesafe:config:1.3.2",
             "commons-io:commons-io:2.7",
             "de.ruedigermoeller:fst:2.57",
