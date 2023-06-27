@@ -20,7 +20,7 @@ def gen_java_deps():
             "javax.activation:activation:1.1.1",
             "org.apache.commons:commons-lang3:3.4",
             "org.msgpack:msgpack-core:0.8.20",
-            "org.ow2.asm:asm:6.0",
+            "org.ow2.asm:asm:6.2.1",
             "org.apache.logging.log4j:log4j-api:2.17.1",
             "org.apache.logging.log4j:log4j-core:2.17.1",
             "org.apache.logging.log4j:log4j-slf4j-impl:2.17.1",
