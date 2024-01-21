@@ -19,7 +19,7 @@ def gen_java_deps():
             "javax.xml.bind:jaxb-api:2.3.0",
             "javax.activation:activation:1.1.1",
             "org.apache.commons:commons-lang3:3.4",
-            "org.msgpack:msgpack-core:0.8.20",
+            "org.msgpack:msgpack-core:0.9.8",
             "org.ow2.asm:asm:6.0",
             "org.apache.logging.log4j:log4j-api:2.17.1",
             "org.apache.logging.log4j:log4j-core:2.17.1",
