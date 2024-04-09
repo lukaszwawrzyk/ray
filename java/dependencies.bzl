@@ -33,7 +33,7 @@ def gen_java_deps():
             maven.artifact(
                 group = "org.testng",
                 artifact = "testng",
-                version = "7.5.1",
+                version = "7.10.1",
                 exclusions = [
                     "com.google.guava:guava",
                 ]
