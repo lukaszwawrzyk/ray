@@ -32,9 +32,9 @@ hedron_compile_commands_setup()
 
 http_archive(
     name = "rules_python",
-    sha256 = "94750828b18044533e98a129003b6a68001204038dc4749f40b195b24c38f49f",
-    strip_prefix = "rules_python-0.21.0",
-    url = "https://github.com/bazelbuild/rules_python/releases/download/0.21.0/rules_python-0.21.0.tar.gz",
+    sha256 = "b289b0b023c71b80f26d39476e5e2c3cf72d21cb2759bcf02638ba3cc480e9df",
+    strip_prefix = "rules_python-0.32.1",
+    url = "https://github.com/bazelbuild/rules_python/releases/download/0.32.1/rules_python-0.32.1.tar.gz",
 )
 
 load("@rules_python//python:repositories.bzl", "python_register_toolchains")
